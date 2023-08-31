@@ -39,11 +39,11 @@ const Header = () => {
           <div className="center">E-STORE.</div>
           <div className="right">
             <TbSearch />
-            <span className="cart-icon">
+            <span className="cart-badge">
               <CgShoppingCart />
               <span>5</span>
             </span>
-            <span className="cart-inco">
+            <span className="cart-incon">
               <AiOutlineHeart />
             </span>
           </div>
