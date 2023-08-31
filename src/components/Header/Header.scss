@@ -5,7 +5,7 @@
   background-color: #212121;
   padding: 0 5px;
   color: whitesmoke;
-  border-bottom: 1px solid;
+  box-shadow: 0 0px 50px 5px rgb(0, 0, 0);
   z-index: 99;
 
   @include md {
